@@ -78,4 +78,11 @@ Banking-specific oversight → FFIEC Cybersecurity Framework.
 
 
 
+<h2>TryHackMe Lab Completion</h2>
+<br/>
+<img src="https://i.imgur.com/gyXSiIf.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
 
