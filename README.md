@@ -3,14 +3,13 @@
 
 
 <h2>Description</h2>
-Offensive Security - VM
-(Breaking into computer systems, exploiting software bugs, and finding loopholes in applications to gain unauthorized access.
+In this lab, I explored fundamental concepts of offensive security using a controlled virtual environment. I practiced identifying software vulnerabilities, exploiting misconfigurations, and understanding common attack vectors. The lab emphasized ethical hacking principles, focusing on improving defensive strategies by understanding how attackers think and operate.
 <br />
 
 
 <h2>Utilities Used</h2>
 
-- <b>TryHackMe VM</b> 
+- <b>VM</b> 
 - <b>GoBuster</b>
 
 
@@ -47,6 +46,18 @@ Account page showing a successful transfer:  <br/>
 <img src="https://i.imgur.com/6UDGvJv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+
+
+
+
+
+<h2>Learned Outcomes</h2>
+
+Learned about buffer overflows and privilege escalation
+
+Understood how misconfigurations can be exploited
+
+Reinforced ethical principles and defensive implications
 
 
 
